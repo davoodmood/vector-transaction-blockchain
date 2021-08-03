@@ -1,4 +1,4 @@
-# Project Title
+# Vector Transaction Blockchain with Typescript
 
 Simple overview of an educational blockchain with Typescript.
 
@@ -30,14 +30,7 @@ This project's work is in progress.
 yarn start // or npm start
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
+## Author
 
 Contributors names and contact info
 

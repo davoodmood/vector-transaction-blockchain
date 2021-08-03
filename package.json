@@ -1,0 +1,21 @@
+{
+  "name": "vector_blockchain",
+  "version": "1.0.0",
+  "description": "An educational blockchain implementation with typescript, based on Vector Shape transactions.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/index.js"
+  },
+  "keywords": [
+    "blockchain", "vector", "3d"
+  ],
+  "author": "Davood Hakimi Mood/ David Mood",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "js-sha256": "^0.9.0"
+  }
+}
